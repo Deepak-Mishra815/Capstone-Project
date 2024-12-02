@@ -19,6 +19,7 @@ This project involves collecting, processing, and storing data in BigQuery to an
 - **Borrower Locations**: Understand geographical distribution of loans.
 
 ## Tasks Completed
+
 1. **Set Up BigQuery Environment**: Opened BigQuery, selected an existing project, and located the Fintech dataset.
    ![Locate the dataset](screenshots/Capstone%20Project%20part%201.Locate%20the%20dataset.jpg)
    
