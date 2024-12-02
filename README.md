@@ -21,29 +21,31 @@ This project involves collecting, processing, and storing data in BigQuery to an
 ## Tasks Completed
 
 1. **Set Up BigQuery Environment**: Opened BigQuery, selected an existing project, and located the Fintech dataset.
-   ![Locate the dataset](screenshots/Capstone%20Project%20part%201.Locate%20the%20dataset.jpg)
+   ![Locate the dataset](screenshots/Capstone Project part 1.Locate the dataset.jpg)
    
 2. **Explore Fintech Data**: Identified key tables and columns containing loan amounts and issuance dates.
-   ![Task 2 Explored the dataset](screenshots/Capstone%20Project%20part%201.Task%202%20Explored%20the%20dataset.jpg)
+   ![Task 2 Explored the dataset](screenshots/Capstone Project part 1.Task 2 Explored the dataset.jpg)
    
 3. **Import CSV and Create Table**: Imported a CSV file mapping US states to regions and created a standard table.
-   ![Task 3 Import a CSV file and create a standard table](screenshots/Capstone%20Project%20part%201.Task%203%20Import%20a%20CSV%20file%20and%20create%20a%20standard%20table.jpg)
+   ![Task 3 Import a CSV file and create a standard table](screenshots/Capstone Project part 1.Task 3 Import a CSV file and create a standard table.jpg)
    
 4. **Join Data from Two Tables**: Combined loan data with region information using SQL JOIN to create a comprehensive report.
-   ![Task 4 Join data from two tables](screenshots/Capstone%20Project%20part%201.Task%204%20Join%20data%20from%20two%20tables.jpg)
+   ![Task 4 Join data from two tables](screenshots/Capstone Project part 1.Task 4 Join data from two tables.jpg)
    
 5. **Create Table with CTAS**: Used CREATE TABLE AS SELECT to store data results and connected it to Google Sheets.
-   ![Task 5. Create a table based on the results of a query using CTAS](screenshots/Capstone%20Project%20part%201.Task%205.%20Create%20a%20table%20based%20on%20the%20results%20of%20a%20query%20using%20CTAS.jpg)
+   ![Task 5. Create a table based on the results of a query using CTAS](screenshots/Capstone Project part 1.Task 5. Create a table based on the results of a query using CTAS.jpg)
    
 6. **Work with Nested Data**: Extracted loan purposes from nested columns to generate a detailed report.
-   ![Task 6 Work with nested data](screenshots/Capstone%20Project%20part%201.Task%206%20Work%20with%20nested%20data.jpg)
-   ![Task 6 application.purpose notation](screenshots/Capstone%20Project%20part%201.Task%206%20application.purpose%20notation.jpg)
+   ![Task 6 Work with nested data](screenshots/Capstone Project part 1.Task 6 Work with nested data.jpg)
+   ![Task 6 application.purpose notation](screenshots/Capstone Project part 1.Task 6 application.purpose notation.jpg)
    
 7. **Deduplicate Data**: Removed duplicate loan purposes to ensure data accuracy.
-   ![Task 7. Deduplicate data](screenshots/Capstone%20Project%20part%201.Task%207.%20Deduplicate%20data.jpg)
+   ![Task 7. Deduplicate data](screenshots/Capstone Project part 1.Task 7. Deduplicate data.jpg)
    
 8. **Generate Report on Loans Issued**: Created reports on total loans issued by day and year.
-   ![Task 8 Create a table that counts loans grouped by year](screenshots/Capstone%20Project%20part%201.Task%208%20Create%20a%20table%20that%20counts%20loans%20grouped%20by%20year.jpg)
+   ![Task 8 Create a table that counts loans grouped by year](screenshots/Capstone Project part 1.Task 8 Create a table that counts loans grouped by year.jpg)
+
+9. ## Project Summary For a detailed project summary, please refer to (Project Summary for TheLook Fintech.Part 1.PDF.pdf).
 
 ## Achievements
 - Successfully provided the Treasury department with valuable data insights.
@@ -56,9 +58,9 @@ This project involves collecting, processing, and storing data in BigQuery to an
 - **Professional Portfolio**: Created a project that can be added to a professional portfolio to showcase to potential employers.
 
 ## How to Use
-1. **Clone the repository**: `git clone <repository-url>`
-2. **Set up BigQuery environment** and upload the provided data files.
-3. **Run the provided SQL queries** in BigQuery to reproduce the analysis and reports.
+Clone the repository: git clone <repository-url>
+Review the screenshots and captions to understand the step-by-step process.
+Set up your own BigQuery environment and replicate the steps outlined in the screenshots to reproduce the analysis and reports.
 
 ## Contributing
 If you'd like to contribute, please fork the repository and create a pull request.
