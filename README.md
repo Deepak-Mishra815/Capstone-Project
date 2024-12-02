@@ -42,7 +42,7 @@ This project involves collecting, processing, and storing data in BigQuery to an
 8. **Generate Report on Loans Issued**: Created reports on total loans issued by day and year.
    ![Task 8 Create a table that counts loans grouped by year](Capstone%20Project%20part%201.Task%208%20Create%20a%20table%20that%20counts%20loans%20grouped%20by%20year.jpg)
 
-9. **Project Summary For a detailed project summary, please refer to [Project Summary for TheLook Fintech Part 1].
+9. **Project Summary For a detailed project summary, please refer to Capstone%20Project%20Summary%20for%20TheLook%20Fintech.Part%201.PDF.pdf.
 
 ## Achievements
 - Successfully provided the Treasury department with valuable data insights.
